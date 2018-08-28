@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+ <fullName>MELISSA__c</fullName>
+ <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+ <deploymentStatus>Deployed</deploymentStatus>
+ <description/>
+ <fields>
+  <fullName>HELLLLLOOOOOSSSS__c</fullName>
+  <defaultValue>false</defaultValue>
+  <externalId>false</externalId>
+  <label>HELLLLLOOOOOSSSS</label>
+  <trackTrending>false</trackTrending>
+  <type>Checkbox</type>
+ </fields>
+ <label>MELISSA</label>
+ <nameField>
+  <label>MELISSA Name</label>
+  <type>Text</type>
+ </nameField>
+ <pluralLabel>MELISSASASASA</pluralLabel>
+ <sharingModel>ReadWrite</sharingModel>
+ <visibility>Public</visibility>
+</CustomObject>
